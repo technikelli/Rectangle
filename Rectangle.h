@@ -1,10 +1,3 @@
-// Name: Kelli Bray
-// Class: CS 3305/W01
-// Term: Fall 2021
-// Intstructor: Prof Perry
-// Assignment: 1
-
-
 //FILE: Rectangle.h
 //CLASS PROVIDED: Rectangle
 
